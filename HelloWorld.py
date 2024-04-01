@@ -1,2 +1,3 @@
-name = "Mikhale Fom"
-print(name)
+x = "Mikhale "
+y = "Fom"
+print(x + y)
